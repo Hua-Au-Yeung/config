@@ -19,6 +19,13 @@
     "indentWidth": 2,
     "useTabs": false,
     "newLineKind": "lf"
-  }
+  },
+  "yaml": {
+    "locked": true,
+    "lineWidth": 160,
+    "indentWidth": 2,
+    "useTabs": false,
+    "newLineKind": "lf"
+  },
 }
 
